@@ -1,0 +1,4 @@
+ItStudent{ name : Ramzi ,id : 120182233 ,major : Devloper ,mid=100.0, project=100.0, finall=100.0 ,grade = 100.0% }
+ArtStudent{ name : Ahmed ,id : 120180720 ,major : music ,mid=100.0, report=80.0, finall=100.0 ,grade = 98.0% }
+ItStudent{ name : Kalel ,id : 12018354 ,major : Computer Sinse ,mid=90.0, project=60.0, finall=85.0 ,grade = 79.0% }
+ArtStudent{ name : mohammed ,id : 120181010 ,major : Actor ,mid=70.0, report=50.0, finall=90.0 ,grade = 78.0% }
